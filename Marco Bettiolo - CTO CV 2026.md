@@ -10,10 +10,11 @@
 CTO and Co-Founder with 25+ years in software engineering, leading AI-powered product development at scale.
 
 I specialize in:
-- Production AI systems — building and shipping real AI products, not demos
-- Real-time voice applications — conversational AI that actually works
-- Enterprise SaaS platforms — scaling to millions of users
-- AI "slop" rescue missions — rearchitecting hastily-built AI systems into maintainable, production-ready code
+
+- **Production AI systems:** building and shipping real AI products, not demos
+- **Real-time voice applications:** conversational AI that actually works
+- **Enterprise SaaS platforms:** scaling to millions of users
+- **AI "slop" rescue missions:** rearchitecting hastily-built AI systems into maintainable, production-ready code
 
 *Serial entrepreneur with 5 co-founded ventures across AI, Blockchain, Fashion-tech, Coffee and Japanese green tea.*
 
@@ -21,15 +22,11 @@ I specialize in:
 
 ## Technical Skills
 
-**AI/ML:** RAG, LangChain, Vector Databases (Qdrant), Multi-LLM Orchestration, Semantic Search & Embeddings, AI Observability, Voice AI / Conversational AI
-
-**Backend:** Python (FastAPI), Node.js, TypeScript, Microservices, REST APIs, RabbitMQ, Redis
-
-**Frontend:** React, Next.js 15, TypeScript, TailwindCSS
-
-**Infrastructure:** Supabase, PostgreSQL, LiveKit/WebRTC, Vercel, Railway, Hatchet
-
-**Leadership:** Engineering Team Leadership, AI-first Agile, CI/CD, Technical Roadmapping, M&A Due Diligence
+- **AI/ML:** RAG, Vector Databases (Qdrant), Multi-LLM Orchestration, Semantic Search & Embeddings, AI Observability, Voice AI / Conversational AI
+- **Backend:** Python (FastAPI), Node.js, TypeScript, Microservices, REST APIs, RabbitMQ, Redis
+- **Frontend:** React, Next.js 15, TypeScript, TailwindCSS
+- **Infrastructure:** Supabase, PostgreSQL, LiveKit/WebRTC, Vercel, Railway, Hatchet
+- **Leadership:** Engineering Team Leadership, AI-first Agile, CI/CD, Technical Roadmapping, M&A Due Diligence
 
 ---
 
@@ -100,8 +97,8 @@ B2B music platform serving 40M tracks with 1B+ requests/month.
 
 ### Software Engineer (Consultant) • Allianz • May 2010 - May 2012
 
-- Refactored 800k+ LOC codebase applying SOLID/KISS principles
-- Built insurance premium calculation engine and automated deployment pipelines
+- Rewrote 800k+ LOC COBOL codebase to C#, applying SOLID/KISS/TDD principles
+- Built insurance premium calculation engine and automated deployment pipelines with a planned 30y code lifespan
 
 ### Self-Employed • May 2008 - May 2012
 
