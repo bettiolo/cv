@@ -30,15 +30,27 @@ I specialize in:
 
 ---
 
+## Languages
+
+**English** - Native • **Italian** - Native • **Slovenian** - Native
+
+---
+
 ## Latest Experience
 
-### CTO • The AID • Jun 2025 - Present
+### CTO • The AID • Jun 2025 - Present • [theaid.io](https://theaid.io)
 
-Leading technology strategy for The AID, a global health and technology venture building evidence-based clinical decision support for frontline health workers on Telegram and WhatsApp. Website: [theaid.io](https://theaid.io)
+Leading technology strategy for The AID, a global health and technology venture building evidence-based clinical decision support for frontline health workers on Telegram and WhatsApp.
 
 - Building context-relevant decision-support tools that put specialist medical knowledge into the hands of health workers in underserved primary care settings
 - Partnering around health-system integration, measurement, and deployment models aimed at real-world public health impact
 - Supporting access to specialist care in doctor-scarce environments, with current focus on Cambodia and Kenya
+
+---
+
+<div class="page-break"></div>
+
+## Past Experiences
 
 ### Co-Founder & CTO • Sensay • Jul 2023 - Feb 2026
 
@@ -50,18 +62,6 @@ Leading technical vision for AI-powered knowledge transfer platform that capture
 - Designed RAG pipeline with multilingual embeddings, semantic chunking, and Qdrant vector search
 - Established type-safe architecture: FastAPI -> OpenAPI -> auto-generated TypeScript clients
 - Implemented GDPR-compliant, SOC 2 infrastructure with Row-Level Security
-
----
-
-## Languages
-
-**English** - Native • **Italian** - Native • **Slovenian** - Native
-
----
-
-<div class="page-break"></div>
-
-## Past Experiences
 
 ### Senior Engineering Manager • Infinitas Learning • Feb 2023 - May 2024
 

@@ -46,6 +46,8 @@ h3 {
   font-weight: 600;
   color: #1a1a2e;
   margin: 14px 0 6px 0;
+  page-break-after: avoid;
+  break-after: avoid;
 }
 
 hr {
@@ -54,11 +56,15 @@ hr {
 
 p {
   margin: 0 0 10px 0;
+  orphans: 3;
+  widows: 3;
 }
 
 ul {
   margin: 6px 0 12px 0;
   padding-left: 20px;
+  page-break-inside: avoid;
+  break-inside: avoid;
 }
 
 li {
@@ -93,6 +99,13 @@ em {
 
 h3 + p {
   margin-bottom: 8px;
+  page-break-after: avoid;
+  break-after: avoid;
+}
+
+h3 + p + ul {
+  page-break-inside: avoid;
+  break-inside: avoid;
 }
 
 .page-break {
@@ -100,14 +113,9 @@ h3 + p {
   break-before: page;
 }
 
-/* Add top padding to content after page break */
-.page-break + * {
-  padding-top: 20px;
-}
-
 @media print {
   body {
-    padding: 30px 40px;
+    padding: 0;
   }
 
   h1 {
