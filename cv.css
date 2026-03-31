@@ -113,6 +113,10 @@ h3 + p + ul {
   break-before: page;
 }
 
+.page-break + * {
+  margin-top: 0;
+}
+
 @media print {
   body {
     padding: 0;
@@ -124,7 +128,7 @@ h3 + p + ul {
   }
 
   @page {
-    margin: 0;
+    margin: 30px 40px;
     size: A4;
   }
 }

@@ -37,7 +37,8 @@ INTERMEDIATE_PDF="${SOURCE_MD%.md}.pdf"
 
 npx md-to-pdf "$SOURCE_MD" \
   --stylesheet "$SOURCE_CSS" \
-  --pdf-options '{"format":"A4","margin":{"top":"30px","right":"40px","bottom":"30px","left":"40px"},"printBackground":true}' \
+  --page-media-type print \
+  --pdf-options '{"format":"A4","printBackground":true}' \
   --launch-options '{"executablePath":"/Applications/Google Chrome.app/Contents/MacOS/Google Chrome"}'
 
 mv "$INTERMEDIATE_PDF" "$OUTPUT_PDF"

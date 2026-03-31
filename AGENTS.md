@@ -26,6 +26,7 @@ This repository contains Markdown source files, a shared stylesheet, a PDF gener
 - If `generate-cv.sh` does not support a requested input file or naming rule, do not bypass the script; ask the user to implement that feature in `generate-cv.sh`.
 - Generated PDF filenames must always be `Marco Bettiolo - CTO CV <Mon YYYY>.pdf`, using the abbreviated current month and year, for example `Marco Bettiolo - CTO CV Mar 2026.pdf`.
 - Multiple Markdown variants may exist, but they should all render to the same clean PDF output name.
+- Print layout should be controlled through `cv.css` print rules and `generate-cv.sh` should render with print media.
 
 Examples:
 
